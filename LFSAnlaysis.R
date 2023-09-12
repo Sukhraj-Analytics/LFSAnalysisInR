@@ -8,8 +8,6 @@
 ── Conflicts ───────────────────────────────────── tidyverse_conflicts() ──
 ✖ dplyr::filter() masks stats::filter()
 ✖ dplyr::lag()    masks stats::lag()
-> library(dplyr)
-> library(haven)
 > View(Df)
 > # understanding the data and columns
 > glimpse(Df)
